@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Дмитрий Коваленко](https://up.htmlacademy.ru/adaptive/22/user/230267).
-* Наставник: `Неизвестно`.
+* Наставник: `Эрик Спичак`.
 
 ---
 
@@ -9,7 +9,7 @@
 
 Полезный файл:
 
-- [Contributing.md](Contributing.md) — руководство по внесению изменений.
+- [Contributing.md](Contributing.md) — руководство по внесению изменений.
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `.stylelintrc`, `.travis.yml`, `package-lock.json`, `package.json`._
